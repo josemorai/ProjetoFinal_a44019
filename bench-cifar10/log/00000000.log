@@ -1,0 +1,4 @@
+2023-05-29 17:27:42,915 args = Namespace(data='./data', batch_size=256, learning_rate=0.1, momentum=0.9, weight_decay=0.0005, report_freq=50, gpu=0, epochs=50, save='bench-cifar10', seed=1, arch='00000000')
+2023-05-29 17:27:43,735 param size = 0.387882MB
+2023-05-29 17:27:43,735 FLOPs = 7713280
+2023-05-29 17:27:48,103 epoch 0 lr 1.000000e-01
